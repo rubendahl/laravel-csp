@@ -35,7 +35,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": "^8.3",
+        "php": "^8.2",
         "illuminate/http": "^11.36.1|^12.0|^13.0",
         "illuminate/support": "^11.36.1|^12.0|^13.0",
         "spatie/laravel-package-tools": "^1.17"
